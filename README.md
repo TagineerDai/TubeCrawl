@@ -12,6 +12,10 @@ usage:
 3. Save files as `/video/<name>/<name+index>.mp4`, to avoid name conflicting.  
 4. Add request head to prevent banning.
 
+#### ISSUE
+Matching of high resolution face to faces extracted from video calls for manual work.
+![Videos crawlled with keyword johnson](https://github.com/TagineerDai/TubeCrawl/blob/master/issue0811.JPG?raw=true)
+
 #### TODO  
 + Add multi-thread mechanism.
 + Use ffmpeg to extract frames in a given sample ratio.
